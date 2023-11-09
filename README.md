@@ -1,4 +1,12 @@
 # JAVASCRPIT_BASICS
+
+<!--<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">-->
+
+<img src="https://github.com/abrahamcalf/languages.abranhe.com/blob/master/public/favicon.gif?raw=true" height="50">
+
+
+###JAVASCRIPT : While Html is used fro creating the structure of the webpage, Css for styling . JavaScript is used for creating Dynamic content in the web pages like the working of buttons, what must be done upone clicking, changing colors of the carasol etc .
+
 practicing the java script concepts from basics to advanced.
 
 YOU ARE ABSOLUTLEY FREE TO CONTRIBUTRE TO THIS REPOSITORY : ALTHOUGH THIS IS A PRACTICE AND DOCUMNETATION OF MY LEARNINGS FOR DEV LOG PURPOSES, TO COME AND REVISIT FOR BASIC REVISION.You are free to colloborate as well.
@@ -21,6 +29,8 @@ if by chance you encounter an error in your local device then chances are since,
 
 4)THE OUTPUT IN THE BROWSER SHOULD LOOK LIKE THIS:
 ![image](https://github.com/koushhik/JAVASCRPIT_BASICS/assets/54579643/9e7a2498-2000-4dde-b7e8-741c396158fd)
+
+
 
 
 sante towards:  HAPPY GRINDING ...HAPPY CODING ...!! BEST WISHES FROM ....FELLOW INDIAN DEVELOPER...!!!
